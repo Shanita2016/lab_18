@@ -2,6 +2,16 @@
 
 Steve, Shanita, and Benson
 
+## General Idea
+
+Homepage view
++ have an input form where people can enter a hashtag (that keyword is used as a filter)
++ clicking the submit button will pass the hashtag to the service/factory
+
+Output view
++ display the 10 most recent tweets that used the hashtag our user entered
+
+
 ## General HTML
 + make use of ng-repeat
 
@@ -36,4 +46,4 @@ set up the when / otherwise statements
 
 ## External Dependencies
 + ngRoute
-+ something other than ngRoute -- research Angular documentation
++ something other than ngRoute -- ngAnimate? 
