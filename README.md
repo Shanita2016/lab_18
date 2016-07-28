@@ -2,6 +2,13 @@
 
 Steve, Shanita, and Benson
 
+## Currently working on
+
+Steve -- create our module and inputCtrl, which grabs our Twitter API data
+
+
+
+
 ## General Idea
 
 Homepage view
@@ -17,7 +24,7 @@ Output view
 
 
 ## Multiple Routes
-
++ add a new things
 + create route.js
 + use ngRoute (include it in our module) to connect views
 + add navigation for views in index.html
@@ -46,4 +53,4 @@ set up the when / otherwise statements
 
 ## External Dependencies
 + ngRoute
-+ something other than ngRoute -- ngAnimate? 
++ something other than ngRoute -- ngAnimate? possibly use ngAnimate to fade in/out new posts on the output page -- ngTouch to speed up input submission on mobile?
